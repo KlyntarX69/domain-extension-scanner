@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 from tabulate import tabulate
 import sys
-import ipaddress
 
 ascii_logo = r"""
     ____                        _          ______                            _           
