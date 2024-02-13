@@ -55,4 +55,4 @@ else:
     print(table)
 
 print(ascii_logo)
-print("Bababoi - Alfred Holmbom")
+print("Bababoi - Alfred")
